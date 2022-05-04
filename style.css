@@ -16,6 +16,7 @@ body{
     right: 20%;
     top: 2rem;
     object-fit: scale-down;
+    height: auto;
 }
 
 .bottom-cloud {
@@ -24,6 +25,7 @@ body{
     left: 5%;
     top: 30%;
     object-fit: scale-down;
+    height: auto;
 }
 
 .intro {
@@ -35,6 +37,7 @@ body{
 .profile-pic {
     border-radius: 50%;
     object-fit: scale-down;
+    height: auto;
 }
 
 h1 {
