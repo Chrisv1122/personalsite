@@ -3,41 +3,47 @@ body{
     margin:0;
     text-align: center;
     font-family: 'Merriweather', serif;
+    object-fit: scale-down;
 }
 
 .mountain {
     object-fit: scale-down;
-    max-width: 100%;
+    height: auto;
 }
 .top-cloud {
     width: 10rem;
     position: absolute;
     right: 20%;
     top: 2rem;
+    object-fit: scale-down;
 }
 
 .bottom-cloud {
     width: 10rem;
     position: absolute;
-    left: 12%;
+    left: 5%;
     top: 30%;
+    object-fit: scale-down;
 }
 
 .intro {
     width: 40%;
     margin: auto;
+    object-fit: scale-down;
 }
 
 .profile-pic {
     border-radius: 50%;
+    object-fit: scale-down;
 }
 
 h1 {
-    margin: 3.125rem auto 0 auto;
+    color: #0AA1DD;
     font-size: 5.625rem;
     font-family: 'Sacramento', cursive;
-    color: #0AA1DD;
     line-height: 2;
+    margin: 3.125rem auto 0 auto;
+    object-fit: scale-down;
 }
 
 h2 {
@@ -46,11 +52,13 @@ h2 {
     color: #0AA1DD;
     font-weight: normal;
     padding-bottom: 0.75rem;
+    object-fit: scale-down;
 }
 
 h3 {
     font-family: 'Montserrat', sans-serif;
     color: #2155CD
+    object-fit: scale-down;
 }
 
 a {
@@ -58,6 +66,7 @@ a {
     font-family: 'Montserrat', sans-serif;
     margin: 0.625rem 1.25rem;
     text-decoration: none;
+    object-fit: scale-down;
 }
 
 a:hover {
@@ -74,6 +83,7 @@ hr {
     border-width: 0.625rem;
     width: 10%;
     margin: 6.25rem auto;
+    object-fit: scale-down;
 }
 
 .top-container {
@@ -81,27 +91,32 @@ hr {
     padding-top: 6.25rem;
     position: relative;
     margin: 0;
+    object-fit: scale-down;
 }
 
 .middle-container {
     margin: 6.25rem 0;
+    object-fit: scale-down;
 }
 .skill-row {
     width: 50%;
     margin: 6.25rem auto;
     text-align: left;
+    object-fit: scale-down;
 }
 
 .code-img {
   width: 25%;
     float: left;
     padding-right: 1.25rem;
+    object-fit: scale-down;
 }
 
 .puzzle {
     width: 25%;
     float: right;
     padding-left: 1.25rem;
+    object-fit: scale-down;
 }
 
 .contact-me {
@@ -111,6 +126,7 @@ hr {
 .contact-message {
     width: 40%;
     margin: 2.5rem auto 3.75rem;
+    object-fit: scale-down;
 }
 
 .btn {
@@ -128,6 +144,7 @@ hr {
   font-size: 1.25rem;
   padding: 0.625rem 1.25rem 0.625rem 1.25rem;
   text-decoration: none;
+  object-fit: scale-down;
 }
 
 .btn:hover {
@@ -143,6 +160,7 @@ hr {
 .bottom-container {
     background-color: #7FB5FF;
     padding: 3.125rem 0 1rem;
+    object-fit: scale-down;
 }
 
 .copyright {
