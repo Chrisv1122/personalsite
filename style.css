@@ -10,14 +10,14 @@ body{
     height: auto;
 }
 .top-cloud {
-    max-width: 100%;
+    max-width: 10rem;
     right: 20%;
     top: 2rem;
     height: auto;
 }
 
 .bottom-cloud {
-    max-width: 100%;
+    max-width: 10rem;
     left: 5%;
     top: 30%;
     height: auto;
