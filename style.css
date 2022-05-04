@@ -6,7 +6,8 @@ body{
 }
 
 .mountain {
-    width: 15rem;
+    object-fit: scale-down;
+    max-width: 100%;
 }
 .top-cloud {
     width: 10rem;
