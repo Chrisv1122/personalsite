@@ -10,7 +10,7 @@ body{
     height: auto;
 }
 .top-cloud {
-    width: 10rem;
+    max-width: 100%;
     position: absolute;
     right: 20%;
     top: 2rem;
@@ -18,7 +18,7 @@ body{
 }
 
 .bottom-cloud {
-    width: 10rem;
+    max-width: 100%;
     position: absolute;
     left: 5%;
     top: 30%;
