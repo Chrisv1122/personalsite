@@ -21,7 +21,7 @@ body{
 .bottom-cloud {
     max-width: 10rem;
     left: 5%;
-    top: 30%;
+    top: 50%;
     object-fit: contain;
     position: absolute;
     height: auto;
